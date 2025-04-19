@@ -32,10 +32,10 @@ Edit
 cd insider-threat-tool
 Run the tool:
 
-bash
-Copy
-Edit
+```bash
+
 python main.py
+```
 Notes
 Ensure Python 3 is installed.
 
